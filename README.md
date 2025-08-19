@@ -22,8 +22,8 @@ This project allows you to add, view, and manage student records with ease.
 ---
 
 ## 📷 Screenshots
-![App Screenshot] (![Screenshot](https://raw.githubusercontent.com/Rythems/Student-Database-System/main/Screenshot%201.png))
-
+![App Screenshot 1] (![Screenshot](https://raw.githubusercontent.com/Rythems/Student-Database-System/main/Screenshot%201.png))
+![App Screenshot 2] (https://github.com/Rythems/Student-Database-System/raw/main/Screenshot%202.png)
 ---
 
 ## ▶️ How to Run
